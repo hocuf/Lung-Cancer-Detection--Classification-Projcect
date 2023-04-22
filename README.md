@@ -1,1 +1,1 @@
-"# Lung-Cancer-Detection-Classification-Projcect" 
+# Lung Cancer Detection Classification Projcect
